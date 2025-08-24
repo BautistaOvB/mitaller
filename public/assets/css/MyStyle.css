@@ -1,0 +1,27 @@
+body{
+    background-color: #1f1f1f;
+    color: #569cb3;
+    font-family: Arial, sans-serif;
+
+}
+
+h1{
+    color: #569cb3;
+    text-align:left;
+    margin-left: 20px;
+    font-size: 2.5em;
+    
+}
+
+.navbar{
+    background-color: #569cb3;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar a{
+    color:#ffffff;
+    font-size: 20 px;
+    font-family: Cambria;
+    font-weight: bold;
+}

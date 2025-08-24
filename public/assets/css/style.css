@@ -1,0 +1,143 @@
+body{
+    background-color: #1f1f1f;
+    border-color: #1f1f1f;
+    color: #569cb3;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #569cb3;
+    margin-left: 20px;
+    font-size: 2.5em;  
+}
+
+.navbar{
+    background-color: #569cb3;
+    padding: 10px;
+}
+
+.navbar a{
+    color: #ffffff;
+    font-size: 20 px;
+    font-family: Cambria;
+    font-weight: bold;
+}
+
+.row{
+    background-color: #1f1f1f;
+    color: #549955;
+    padding: 5rem;
+    align-items: center;
+}
+
+.container-fluid{
+    background-color: #569cb3;
+    /*margin: 20 px;
+    border: 20 px;*/
+    color:#1f1f1f;
+}
+
+.container h1{
+    background-color: #1f1f1f;
+    color:#569cb3;
+    text-align: left;
+    font-weight: bold;
+    margin: 20px;
+}
+.container{
+    background-color:#1f1f1f;
+}
+
+.container h2{
+    color:#569cb3;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container-fluid h1{
+    color: #569cb3;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+footer{
+    background-color: #1f1f1f;
+    margin:0%;
+    border:#1f1f1f;
+    color:#569cb3;
+}
+
+
+header{
+    background-color: #569cb3;
+    padding: 10px #569cb3; 
+}
+
+.col-6 p{
+    font-size: 1.2em;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color:#569cb3;
+    font-weight: bold;
+}
+
+.img-fluid #logoterminos{
+    justify-items: right;
+}
+
+.card-header{
+    align-items: justify;
+}
+
+.col-10 #welcome-text{
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 20px;
+    border: 10% solid #1f1f1f;
+}
+
+#welcome-text{
+    text-align: center;
+    margin: 20px;
+}
+
+.card{
+    background-color:#569cb3;
+    color: #fcfeff;
+    border: 2px solid #1f1f1f;
+    padding: 10px #569cb3;
+}
+
+.card-body{
+    text-align: center;
+    background-color: #569cb3;
+    color: #fcfeff;
+}
+
+.card-header #terminos{
+    background-color: #569cb3;
+    color: #fcfeff;
+    font-weight: bold;
+    text-align: left;
+}
+
+.redes-sociales{
+    align-content: center;
+    align-items: center;
+}
+
+.iconos-redes{
+    align-items: center;
+    align-content: center;
+}
+
+#iconos{
+    border-radius: 25%;
+    width: 50px;
+    height: 50px;
+}
