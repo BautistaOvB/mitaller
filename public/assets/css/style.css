@@ -62,10 +62,10 @@ h1{
 }
 
 footer{
-    background-color: #1f1f1f;
+    background-color: #549955;
     margin:0%;
     border:#1f1f1f;
-    color:#569cb3;
+    color:#1f1f1f;
 }
 
 
@@ -140,4 +140,29 @@ h3{
     border-radius: 25%;
     width: 50px;
     height: 50px;
+}
+
+#footer{
+    background-color: #549955;
+    /*padding: 10px #549955;*/ 
+}
+
+.texto-footer{
+    color: #1f1f1f;
+    font-size: 20 px;
+    font-family: Cambria;
+    margin: 10px;
+    padding: 10px;
+}
+
+#metodos-pago{
+    background-color:#ffffff;
+    border: 2px solid #1f1f1f;
+    max-height:300px;
+    color:#569cb3;
+    justify-items: justify;
+}
+
+#metodos{
+    max-height: 100px;
 }

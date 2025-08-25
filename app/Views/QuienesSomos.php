@@ -19,7 +19,6 @@
         <div class="col-6">
             <h2>Nuestra Misión</h2>
             <p> En CloverCD, nuestra misión es ofrecer las alternativas más comodas y sofisticadas tanto para que el publico en general, como los más puristas de la música puedan disfrutar de la música a su manera.</p>
-            <p> </p>
         </div>
         <div class="col-12">
             <p>Para poder ver todos los articulos visite nuestro catalogo</p>
